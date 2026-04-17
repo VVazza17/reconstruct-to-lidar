@@ -1,0 +1,11 @@
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.pyc
+pytest-cache-files-*/
+.venv/
+.venv_py311/
+.coverage
+*.egg-info/
+data/processed/
+outputs/

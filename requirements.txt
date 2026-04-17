@@ -1,0 +1,5 @@
+numpy
+nuscenes-devkit
+Pillow
+torch
+scipy
